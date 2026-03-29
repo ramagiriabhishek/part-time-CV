@@ -46,22 +46,18 @@ National high-street retailer, Liverpool city centre, UK
 - Partnered with colleagues across departments — strong **communication** and **teamwork** during sales events and weekend trading.
 - Helped with **maintaining store presentation**: facing up shelves, tidying rails, light cleaning of fixtures, and keeping the service desk area professional and welcoming.
 
-**Data analyst internship** — 12/2023 – 05/2024  
+**Office / data support internship** — 12/2023 – 05/2024  
 Digital Nirvana Information Systems (I) Pvt Ltd, Hyderabad, India
 
-- Used Jupyter Notebook for Data Cleaning, Data Visualization and Data Analysis.
-- Collected and analyzed complex datasets for business strategy enhancement.
-- Conducted detailed competitor analysis, provided actionable insights to stakeholders.
-- Improved data quality by implementing structured validation checks.
+- Worked in a professional office environment, supporting checks on business information and basic reporting.
+- Helped improve consistency and accuracy of data used in day-to-day decisions.
+- Communicated clearly with colleagues and followed structured processes and deadlines.
 
 ---
 
 ## Certifications
 
-1) Data Analyst Internship Programme, 12/01/23, 05/01/24, Digital Nirvana Information Systems (I) Pvt Ltd  
-2) Data Mining provided by Great Learning Academy  
-3) Data Visualization with Python provided by Great Learning Academy  
-4) Python For Data Science provided by Great Learning Academy  
+- Data Analyst Internship Programme — Digital Nirvana Information Systems (I) Pvt Ltd (12/2023 – 05/2024)
 
 ---
 
@@ -72,12 +68,7 @@ Digital Nirvana Information Systems (I) Pvt Ltd, Hyderabad, India
 - Teamwork, handovers, and supporting colleagues during busy periods.
 - Time management, reliability, and flexibility with part-time rotas.
 - Verbal **communication** in English (IELTS 6.5); clear written notes when logging issues.
-
----
-
-## Technical & additional skills
-
-Python, SQL, Jupyter Notebook, data visualisation — useful if the role involves basic admin, spreadsheets, or digital tasks.
+- Confident with **IT** for retail admin: email, e-learning, and basic spreadsheets or stock lookups where the store uses them.
 
 ---
 

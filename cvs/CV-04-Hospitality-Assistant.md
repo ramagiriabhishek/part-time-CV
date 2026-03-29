@@ -55,22 +55,18 @@ Hotel restaurant, Hyderabad, India (1 year)
 - Helped maintain hygiene and presentation in public areas; cleared and polished tables efficiently between seatings.
 - Worked as part of a large team; **adaptable** to different sections and last-minute changes to the floor plan.
 
-**Data analyst internship** — 12/2023 – 05/2024  
+**Office / data support internship** — 12/2023 – 05/2024  
 Digital Nirvana Information Systems (I) Pvt Ltd, Hyderabad, India
 
-- Used Jupyter Notebook for Data Cleaning, Data Visualization and Data Analysis.
-- Collected and analyzed complex datasets for business strategy enhancement.
-- Conducted detailed competitor analysis, provided actionable insights to stakeholders.
-- Improved data quality by implementing structured validation checks.
+- Worked in a professional office environment, supporting checks on business information and basic reporting.
+- Helped improve consistency and accuracy of data used in day-to-day decisions.
+- Communicated clearly with colleagues and followed structured processes and deadlines.
 
 ---
 
 ## Certifications
 
-1) Data Analyst Internship Programme, 12/01/23, 05/01/24, Digital Nirvana Information Systems (I) Pvt Ltd  
-2) Data Mining provided by Great Learning Academy  
-3) Data Visualization with Python provided by Great Learning Academy  
-4) Python For Data Science provided by Great Learning Academy  
+- Data Analyst Internship Programme — Digital Nirvana Information Systems (I) Pvt Ltd (12/2023 – 05/2024)
 
 ---
 
@@ -81,12 +77,7 @@ Digital Nirvana Information Systems (I) Pvt Ltd, Hyderabad, India
 - Teamwork with FOH and kitchen; flexibility with evenings, weekends, and event shifts where compatible with study.
 - Health, safety, and hygiene awareness in public dining spaces.
 - Stamina for long standing shifts; attention to detail on table presentation.
-
----
-
-## Technical & additional skills
-
-Python, SQL, data analysis — secondary for hospitality roles; available if venues use booking or reporting tools.
+- Happy to use **booking systems**, POS, or email for reservations and internal updates after a short induction.
 
 ---
 

@@ -46,13 +46,12 @@ Independent restaurant & takeaway, Liverpool, UK
 - Assisted with **stock handling**: deliveries, date rotation, and notifying the shift lead when items ran low.
 - Carried out **cleaning and safety compliance** tasks (floors, equipment, waste disposal) and followed site procedures for slips, trips, and burns prevention.
 
-**Data analyst internship** — 12/2023 – 05/2024  
+**Office / data support internship** — 12/2023 – 05/2024  
 Digital Nirvana Information Systems (I) Pvt Ltd, Hyderabad, India
 
-- Used Jupyter Notebook for Data Cleaning, Data Visualization and Data Analysis.
-- Collected and analyzed complex datasets for business strategy enhancement.
-- Conducted detailed competitor analysis, provided actionable insights to stakeholders.
-- Improved data quality by implementing structured validation checks.
+- Worked in a professional office environment, supporting checks on business information and basic reporting.
+- Helped improve consistency and accuracy of data used in day-to-day decisions.
+- Communicated clearly with colleagues and followed structured processes and deadlines.
 
 **Restaurant / food service team member** — 06/2022 – 05/2023  
 Casual dining venue, Hyderabad, India (1 year)
@@ -66,10 +65,7 @@ Casual dining venue, Hyderabad, India (1 year)
 
 ## Certifications
 
-1) Data Analyst Internship Programme, 12/01/23, 05/01/24, Digital Nirvana Information Systems (I) Pvt Ltd  
-2) Data Mining provided by Great Learning Academy  
-3) Data Visualization with Python provided by Great Learning Academy  
-4) Python For Data Science provided by Great Learning Academy  
+- Data Analyst Internship Programme — Digital Nirvana Information Systems (I) Pvt Ltd (12/2023 – 05/2024)
 
 ---
 
@@ -81,12 +77,7 @@ Casual dining venue, Hyderabad, India (1 year)
 - Time management, reliability, and working under pressure.
 - Health and safety awareness; manual handling and stamina for standing shifts.
 - Attention to detail (orders, payments, food safety).
-
----
-
-## Technical & additional skills
-
-Python, SQL, Jupyter Notebook, data cleaning and visualisation, statistical methods — useful for administrative or reporting tasks if required.
+- Confident with everyday **IT** (email, online training, basic spreadsheets) for rota updates or admin if needed.
 
 ---
 
